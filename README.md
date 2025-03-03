@@ -1,4 +1,4 @@
-<h1> Boas vindas !
+<h1> Boas vindas </h1> !
 ## Estudante de Sistemas de Informção cursando o 7° período
 <!--
 **nezi404/nezi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
