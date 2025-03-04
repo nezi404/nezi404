@@ -1,17 +1,10 @@
 <!doctype html>
-<style type= text/css>
-	.imgDiv{align="left";
-        width="30px";
-        style="padding-right:10px"
-		}
-</style>
 <h1> Boas vindas </h1> !
 <p>Cursando o 7° período de Sistemas de Informação</p>
 <p>Ferramentas</p>
-<div class="imgDiv">
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
-</html>
+
+<img alt="Python" align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <!--
 **nezi404/nezi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
