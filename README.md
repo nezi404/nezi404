@@ -2,7 +2,7 @@
 <style type= text/css>
 	.imgDiv{align="left";
         width="30px";
-        style="padding-right:10px
+        style="padding-right:10px"
 		}
 </style>
 <h1> Boas vindas </h1> !
