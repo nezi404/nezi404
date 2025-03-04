@@ -1,9 +1,11 @@
-<!doctype html>
-<h1> Boas vindas </h1> !
+<h1> Boas vindas!</h1> !
 <p>Cursando o 7° período de Sistemas de Informação</p>
 <p>Ferramentas</p>
 
-<img alt="Python" align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Python" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Javascript" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="CSS" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="HTML" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <!--
 **nezi404/nezi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
