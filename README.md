@@ -1,15 +1,16 @@
-<h1> Boas vindas </h1> !
-<p>Cursando o 7° período de Sistemas de Informação</p>
-<p>Ferramentas</p>
+<!doctype html>
 <style type= text/css>
-
-<div class="imgDiv">
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
-.imgDiv{align="left";
+	.imgDiv{align="left";
         width="30px";
         style="padding-right:10px
 		}
+</style>
+<h1> Boas vindas </h1> !
+<p>Cursando o 7° período de Sistemas de Informação</p>
+<p>Ferramentas</p>
+<div class="imgDiv">
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
 <!--
 **nezi404/nezi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
