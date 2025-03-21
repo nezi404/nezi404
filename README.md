@@ -1,4 +1,4 @@
-<h1> Boas vindas!</h1>
+<h1> Boas-vindas!</h1>
 <p>Cursando o 7° período de Sistemas de Informação</p><br>
 <p>Ferramentas</p>
 
