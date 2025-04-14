@@ -1,5 +1,5 @@
 <h1> Boas-vindas!</h1>
-<p>Cursando o 7° período de Sistemas de Informação</p><br>
+<p>Cursando Sistemas de Informação. Tenho interesse em desenvolvimento, IA, aplicações web, jogos e teste.</p><br>
 <p>Ferramentas</p>
 
 <img alt="Python" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
