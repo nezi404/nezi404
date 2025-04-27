@@ -9,6 +9,9 @@
 <img alt="C" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="Java" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img alt="MySQL" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezi404&hide_progress=false\&layout=compact&theme=gruvbox">
+
 
 <!--
 **nezi404/nezi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
